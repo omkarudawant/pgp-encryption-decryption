@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# extra things to exclude
+*.encrypt
+*.key
+*.txt
+GPG_Testing/
